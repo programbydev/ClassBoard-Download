@@ -32,6 +32,7 @@ Current public version: **v1.0.0**
 - Import PDF pages
 - Export work as PNG, PDF, or SVG
 - Save and reopen ClassBoard files
+- Submit feature requests, bug reports, or Pro purchase requests from Help -> Request Form
 - Use presentation-style tools such as laser, spotlight, and curtain overlays
 
 
@@ -47,6 +48,7 @@ Current public version: **v1.0.0**
 - Google Drive support when the user chooses to sign in
 - Check for Updates support
 - Trial and Pro activation support
+- Help -> Request Form for New Feature, Bug Report, and Purchase Pro Version requests
 
 
 ## Built With
@@ -74,6 +76,10 @@ Optional features may use limited information only when required:
 - Google Drive sync works only if you choose to sign in with Google.
 - Update checking only checks the current app version against the public update
   metadata.
+- Help -> Request Form asks for your name, email address, and request details.
+  Requests are saved locally and may be sent to the developer only when a
+  secure support endpoint is configured. Attachment file contents are not
+  uploaded by the form.
 
 Do not share your license key publicly.
 
@@ -103,6 +109,5 @@ developer files.
 
 ## Support
 
-For support or questions, contact the ClassBoard developer through the official
-support channel provided by the project owner.
+For support or questions, use Help -> Request Form inside ClassBoard or contact the ClassBoard developer through the official support channel provided by the project owner.
 
