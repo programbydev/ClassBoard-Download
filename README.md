@@ -6,23 +6,32 @@ Download the latest installer:
 
 https://github.com/programbydev/ClassBoard-Download/releases/latest
 
-Current public version: **v1.0.0**
+Current public version: **v1.1.0**
 
 Latest installer file:
 
-DGClassBoard-Setup-1.0.0.exe
+DGClassBoard-Setup-1.1.0.exe
 
 SHA256:
 
-8B6D95F5F5A317345E5FDF987F7123985967F622703A3193DCF40A85488AA744
+EEFAE8B45B39882B7BECEBF35CBDC2D3ADF5079F3A4EC9B6232E37602458D426
 
 
 ## Download
 
 1. Open the latest release page.
-2. Download `DGClassBoard-Setup-1.0.0.exe`.
+2. Download `DGClassBoard-Setup-1.1.0.exe`.
 3. Run the installer on Windows.
 4. Launch DGClassBoard from the Start Menu or desktop shortcut.
+
+
+## What's New in v1.1.0
+
+- **Professional 3D workspace.** 3D objects now use realistic lighting with distinct matte, gloss, metal, and glass materials, and curved shapes shade smoothly. (3D is a Pro feature.)
+- **What's New in the app.** A new Help > What's New screen shows the highlights of each update, and appears automatically the first time you open a new version.
+- **Stability fixes.** Deleting or duplicating a page or notebook no longer jumps you to the wrong one; removing a section no longer empties a notebook; Reset to Defaults refreshes every setting immediately; and page tags can be removed regardless of letter case.
+
+See the full changelog in [`CHANGELOG.md`](CHANGELOG.md).
 
 
 ## What You Can Do With DGClassBoard
